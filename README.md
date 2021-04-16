@@ -1,2 +1,2 @@
-# Hospital_Management
+# Receptionist_Management
 Working on SE project
